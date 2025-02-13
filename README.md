@@ -1,2 +1,2 @@
 # Python_Exercises
-Repository of all the python exercises I've done 
+Repository of some python exercises I've done 
